@@ -1,0 +1,58 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+*.egg-info/
+
+# Backend données sensibles
+backend/uploads/
+backend/crops/
+backend/outputs/
+backend/knowledge_base/images/
+
+# Flutter
+frontend/.dart_tool/
+frontend/build/
+frontend/.flutter-plugins
+frontend/.flutter-plugins-dependencies
+frontend/android/.gradle/
+frontend/android/local.properties
+frontend/ios/Pods/
+frontend/.packages
+
+# LaTeX
+rapport/*.aux
+rapport/*.log
+rapport/*.out
+rapport/*.toc
+rapport/*.fls
+rapport/*.fdb_latexmk
+rapport/*.synctex.gz
+rapport/_minted*/
+
+# Général
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/settings.json
+**/build/
+**/.dart_tool/
+**/.gradle/
+**/venv/
+**/__pycache__/
+**/uploads/
+**/crops/
+**/outputs/
+
+*.apk
+*.aab
+*.mp4
+*.pt
+*.pth
+*.onnx
+*.tflite
+backend/qdrant_storage/
+backend/evaluation_bundle.zip

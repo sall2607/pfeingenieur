@@ -1,0 +1,119 @@
+{
+  "summary": {
+    "images": 60,
+    "negative_images": 4,
+    "ground_truth_boxes": 57,
+    "target_predictions": 73,
+    "true_positives": 43,
+    "false_positives": 30,
+    "false_negatives": 14,
+    "micro_precision": 0.589041095890411,
+    "micro_recall": 0.7543859649122807,
+    "micro_f1": 0.6615384615384615,
+    "map50_present_classes": 0.7160160276231704,
+    "classes_without_ground_truth": [
+      "computer_monitor",
+      "network_switch"
+    ],
+    "ignored_prediction_classes": {
+      "electrical panel": 5,
+      "light fixture": 3,
+      "projector": 1,
+      "printer": 1,
+      "oven": 2
+    }
+  },
+  "per_class": [
+    {
+      "class_id": 0,
+      "class_name": "air_conditioner",
+      "ground_truths": 9,
+      "predictions": 10,
+      "true_positives": 9,
+      "false_positives": 1,
+      "false_negatives": 0,
+      "precision": 0.9,
+      "recall": 1.0,
+      "f1": 0.9473684210526316,
+      "ap50": 0.9555555555555556
+    },
+    {
+      "class_id": 1,
+      "class_name": "laptop",
+      "ground_truths": 5,
+      "predictions": 3,
+      "true_positives": 3,
+      "false_positives": 0,
+      "false_negatives": 2,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1": 0.7499999999999999,
+      "ap50": 0.6
+    },
+    {
+      "class_id": 2,
+      "class_name": "computer_monitor",
+      "ground_truths": 0,
+      "predictions": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "ap50": null
+    },
+    {
+      "class_id": 3,
+      "class_name": "network_switch",
+      "ground_truths": 0,
+      "predictions": 0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "precision": 0.0,
+      "recall": null,
+      "f1": 0.0,
+      "ap50": null
+    },
+    {
+      "class_id": 4,
+      "class_name": "television",
+      "ground_truths": 13,
+      "predictions": 30,
+      "true_positives": 13,
+      "false_positives": 17,
+      "false_negatives": 0,
+      "precision": 0.43333333333333335,
+      "recall": 1.0,
+      "f1": 0.6046511627906976,
+      "ap50": 1.0
+    },
+    {
+      "class_id": 5,
+      "class_name": "refrigerator",
+      "ground_truths": 16,
+      "predictions": 9,
+      "true_positives": 5,
+      "false_positives": 4,
+      "false_negatives": 11,
+      "precision": 0.5555555555555556,
+      "recall": 0.3125,
+      "f1": 0.39999999999999997,
+      "ap50": 0.2604166666666667
+    },
+    {
+      "class_id": 6,
+      "class_name": "microwave",
+      "ground_truths": 14,
+      "predictions": 21,
+      "true_positives": 13,
+      "false_positives": 8,
+      "false_negatives": 1,
+      "precision": 0.6190476190476191,
+      "recall": 0.9285714285714286,
+      "f1": 0.742857142857143,
+      "ap50": 0.7641079158936301
+    }
+  ]
+}

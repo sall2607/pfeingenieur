@@ -1,0 +1,104 @@
+[
+  {
+    "video": "ma_video.mp4",
+    "location": "Bureau standard",
+    "timestamp": "2026-07-31T13:26:48.691622",
+    "processing_time": 70.0,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  },
+  {
+    "video": "ma_video1.mp4",
+    "location": "Salle technique",
+    "timestamp": "2026-07-31T13:28:01.704891",
+    "processing_time": 44.06,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Écran plat",
+        "designation": "AppareilInformatique",
+        "brand": "LG",
+        "needsReview": false,
+        "conf_desig": 0.9,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video2.mp4",
+    "location": "Couloir",
+    "timestamp": "2026-07-31T13:28:48.773152",
+    "processing_time": 40.45,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Four à micro-ondes",
+        "designation": "AppareilCuisine",
+        "brand": null,
+        "needsReview": false,
+        "conf_desig": 0.95,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video3.mp4",
+    "location": "Salle de réunion",
+    "timestamp": "2026-07-31T13:29:32.230092",
+    "processing_time": 41.67,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Four à micro-ondes",
+        "designation": "AppareilCuisine",
+        "brand": "Silvercrest",
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  }
+]

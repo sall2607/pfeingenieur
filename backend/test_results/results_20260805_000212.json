@@ -1,0 +1,132 @@
+[
+  {
+    "video": "ma_video.mp4",
+    "location": "Bureau standard",
+    "timestamp": "2026-08-05T00:02:14.896560",
+    "processing_time": 23.93,
+    "time_ok": true,
+    "equipments_count": 3,
+    "detection_ok": true,
+    "valid_count": 2,
+    "review_count": 1,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Climatiseur mural",
+        "designation": "Climatisation",
+        "brand": null,
+        "needsReview": true,
+        "conf_desig": 0.95,
+        "schema_ok": true,
+        "issues": []
+      },
+      {
+        "name": "Écran d'ordinateur",
+        "designation": "AppareilInformatique",
+        "brand": null,
+        "needsReview": false,
+        "conf_desig": 0.9,
+        "schema_ok": true,
+        "issues": []
+      },
+      {
+        "name": "Ordinateur portable Dell",
+        "designation": "AppareilInformatique",
+        "brand": "Dell",
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video1.mp4",
+    "location": "Salle technique",
+    "timestamp": "2026-08-05T00:02:41.833197",
+    "processing_time": 20.32,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Écran d'affichage",
+        "designation": "AppareilInformatique",
+        "brand": "LG",
+        "needsReview": false,
+        "conf_desig": 0.9,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video2.mp4",
+    "location": "Couloir",
+    "timestamp": "2026-08-05T00:03:05.156400",
+    "processing_time": 20.2,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Four à micro-ondes",
+        "designation": "AppareilCuisine",
+        "brand": null,
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video3.mp4",
+    "location": "Salle de réunion",
+    "timestamp": "2026-08-05T00:03:28.364480",
+    "processing_time": 21.17,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Four à micro-ondes SilverCrest",
+        "designation": "AppareilCuisine",
+        "brand": "SILVERCREST",
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  }
+]

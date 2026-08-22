@@ -1,0 +1,103 @@
+[
+  {
+    "video": "ma_video.mp4",
+    "location": "Bureau standard",
+    "timestamp": "2026-05-21T22:04:43.148043",
+    "processing_time": 38.73,
+    "time_ok": true,
+    "equipments_count": 2,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 1,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Climatiseur mural",
+        "designation": "Climatisation",
+        "brand": null,
+        "needsReview": true,
+        "conf_desig": 0.95,
+        "schema_ok": true,
+        "issues": []
+      },
+      {
+        "name": "Ordinateur portable Dell",
+        "designation": "AppareilInformatique",
+        "brand": "Dell",
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video1.mp4",
+    "location": "Salle technique",
+    "timestamp": "2026-05-21T22:05:24.885007",
+    "processing_time": 32.2,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  },
+  {
+    "video": "ma_video2.mp4",
+    "location": "Couloir",
+    "timestamp": "2026-05-21T22:06:00.087493",
+    "processing_time": 38.95,
+    "time_ok": true,
+    "equipments_count": 1,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Réfrigérateur",
+        "designation": "Refrigeration",
+        "brand": null,
+        "needsReview": false,
+        "conf_desig": 0.95,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video3.mp4",
+    "location": "Salle de réunion",
+    "timestamp": "2026-05-21T22:06:42.039717",
+    "processing_time": 30.31,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  }
+]

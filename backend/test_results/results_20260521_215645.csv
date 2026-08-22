@@ -1,0 +1,5 @@
+video,location,timestamp,processing_time,time_ok,equipments_count,detection_ok,valid_count,review_count,quality_ok,schema_ok,api_ok,error,score,passed
+ma_video.mp4,Bureau standard,2026-05-21T21:56:47.578607,30.36,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""ByteTrack.__init__() got an unexpected keyword argument 'track_thresh'""}",0,False
+ma_video1.mp4,Salle technique,2026-05-21T21:57:20.946252,22.46,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""ByteTrack.__init__() got an unexpected keyword argument 'track_thresh'""}",0,False
+ma_video2.mp4,Couloir,2026-05-21T21:57:46.411127,29.52,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""ByteTrack.__init__() got an unexpected keyword argument 'track_thresh'""}",0,False
+ma_video3.mp4,Salle de réunion,2026-05-21T21:58:18.930776,17.35,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""ByteTrack.__init__() got an unexpected keyword argument 'track_thresh'""}",0,False

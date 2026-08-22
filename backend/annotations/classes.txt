@@ -1,0 +1,7 @@
+air_conditioner
+laptop
+computer_monitor
+network_switch
+television
+refrigerator
+microwave

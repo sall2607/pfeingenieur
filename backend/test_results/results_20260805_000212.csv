@@ -1,0 +1,5 @@
+video,location,timestamp,processing_time,time_ok,equipments_count,detection_ok,valid_count,review_count,quality_ok,schema_ok,api_ok,error,score,passed
+ma_video.mp4,Bureau standard,2026-08-05T00:02:14.896560,23.93,True,3,True,2,1,True,True,True,,100,True
+ma_video1.mp4,Salle technique,2026-08-05T00:02:41.833197,20.32,True,1,True,1,0,True,True,True,,100,True
+ma_video2.mp4,Couloir,2026-08-05T00:03:05.156400,20.2,True,1,True,1,0,True,True,True,,100,True
+ma_video3.mp4,Salle de réunion,2026-08-05T00:03:28.364480,21.17,True,1,True,1,0,True,True,True,,100,True

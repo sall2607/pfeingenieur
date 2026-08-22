@@ -1,0 +1,93 @@
+[
+  {
+    "video": "ma_video.mp4",
+    "location": "Bureau standard",
+    "timestamp": "2026-05-21T21:46:25.207026",
+    "processing_time": 43.25,
+    "time_ok": true,
+    "equipments_count": 2,
+    "detection_ok": true,
+    "valid_count": 1,
+    "review_count": 1,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [
+      {
+        "name": "Climatiseur mural",
+        "designation": "Climatisation",
+        "brand": "Daikin",
+        "needsReview": true,
+        "conf_desig": 0.95,
+        "schema_ok": true,
+        "issues": []
+      },
+      {
+        "name": "Ordinateur portable",
+        "designation": "AppareilInformatique",
+        "brand": "Dell",
+        "needsReview": false,
+        "conf_desig": 0.98,
+        "schema_ok": true,
+        "issues": []
+      }
+    ],
+    "score": 100,
+    "passed": true
+  },
+  {
+    "video": "ma_video1.mp4",
+    "location": "Salle technique",
+    "timestamp": "2026-05-21T21:47:11.462404",
+    "processing_time": 32.82,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  },
+  {
+    "video": "ma_video2.mp4",
+    "location": "Couloir",
+    "timestamp": "2026-05-21T21:47:47.285304",
+    "processing_time": 30.83,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  },
+  {
+    "video": "ma_video3.mp4",
+    "location": "Salle de réunion",
+    "timestamp": "2026-05-21T21:48:21.115269",
+    "processing_time": 30.66,
+    "time_ok": true,
+    "equipments_count": 0,
+    "detection_ok": false,
+    "valid_count": 0,
+    "review_count": 0,
+    "quality_ok": true,
+    "schema_ok": true,
+    "api_ok": true,
+    "error": null,
+    "equipments": [],
+    "score": 75,
+    "passed": true
+  }
+]

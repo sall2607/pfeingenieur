@@ -1,0 +1,5 @@
+video,location,timestamp,processing_time,time_ok,equipments_count,detection_ok,valid_count,review_count,quality_ok,schema_ok,api_ok,error,score,passed
+ma_video.mp4,Bureau standard,2026-08-19T16:38:30.500538,48.02,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""0""}",0,False
+ma_video1.mp4,Salle technique,2026-08-19T16:39:21.530298,43.12,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""0""}",0,False
+ma_video2.mp4,Couloir,2026-08-19T16:40:07.651540,43.72,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""0""}",0,False
+ma_video3.mp4,Salle de réunion,2026-08-19T16:40:54.378774,38.96,False,0,False,0,0,False,True,True,"HTTP 500: {""detail"":""0""}",0,False

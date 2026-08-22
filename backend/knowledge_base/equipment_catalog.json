@@ -1,0 +1,102 @@
+[
+  {
+    "brand": "Daikin",
+    "model": "FTXM35N",
+    "designation": "Climatisation",
+    "name": "Climatiseur mural Daikin FTXM35N",
+    "power": 1200,
+    "voltage": 220,
+    "cooling_capacity": 12000,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Daikin",
+    "model": "FTXM50N",
+    "designation": "Climatisation",
+    "name": "Climatiseur mural Daikin FTXM50N",
+    "power": 1700,
+    "voltage": 220,
+    "cooling_capacity": 18000,
+    "source_url": "manual"
+  },
+  {
+    "brand": "LG",
+    "model": "S12ET",
+    "designation": "Climatisation",
+    "name": "Climatiseur LG S12ET",
+    "power": 1250,
+    "voltage": 220,
+    "cooling_capacity": 12000,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Dell",
+    "model": "Latitude 5420",
+    "designation": "AppareilInformatique",
+    "name": "Ordinateur portable Dell Latitude 5420",
+    "power": 65,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Dell",
+    "model": "OptiPlex 7090",
+    "designation": "AppareilInformatique",
+    "name": "Ordinateur fixe Dell OptiPlex 7090",
+    "power": 180,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "HP",
+    "model": "LaserJet Pro M404",
+    "designation": "PériphériqueImpression",
+    "name": "Imprimante HP LaserJet Pro M404",
+    "power": 540,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "HP",
+    "model": "EliteBook 840",
+    "designation": "AppareilInformatique",
+    "name": "Ordinateur portable HP EliteBook 840",
+    "power": 45,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Samsung",
+    "model": "RB38T",
+    "designation": "Réfrigération",
+    "name": "Réfrigérateur Samsung RB38T",
+    "power": 160,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Cisco",
+    "model": "Catalyst 2960",
+    "designation": "InfrastructureIT",
+    "name": "Switch Cisco Catalyst 2960",
+    "power": 15,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  },
+  {
+    "brand": "Schneider",
+    "model": "Easy9",
+    "designation": "InfrastructureIT",
+    "name": "Tableau électrique Schneider Easy9",
+    "power": null,
+    "voltage": 220,
+    "cooling_capacity": null,
+    "source_url": "manual"
+  }
+]
